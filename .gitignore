@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Log files
+logs/
+*.log
+
+# Environment variables file
+.env
+
+# Temporary files
+*.tmp
+*.swp
